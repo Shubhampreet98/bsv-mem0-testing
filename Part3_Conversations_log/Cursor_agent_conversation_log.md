@@ -136,7 +136,7 @@ This session appears **in progress** at the time this log was written. No compar
 
 ## Session 4 — This conversation
 
-**Current request:** Create `**Conversation_Log.md`** documenting how you interacted with the assistant.
+**Current request:** Create **`Conversations_log/cursor_agent_conversation_log.md`** documenting how you interacted with the assistant.
 
 ---
 
@@ -161,7 +161,7 @@ This session appears **in progress** at the time this log was written. No compar
 | Evaluation report | `MEM0_EVALUATION_REPORT.md`           | Stakeholder-ready Mem0 product evaluation |
 | Run results       | `output/firecast_results.md`, `.json` | Per-run pass/fail and raw API payloads    |
 | README            | `README.md`                           | Clone, setup, run instructions            |
-| Conversation log  | `Conversation_Log.md`                 | This file — collaboration history         |
+| Conversation log  | `Conversations_log/cursor_agent_conversation_log.md` | This file — collaboration history |
 
 
 ---
